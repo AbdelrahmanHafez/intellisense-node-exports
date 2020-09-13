@@ -1,4 +1,4 @@
-const add = require('./subpath/add.js');
+const add = require('intellisense-node-exports/subpath/add.js');
 
 const sum = add(1, 2);
 
